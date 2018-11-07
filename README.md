@@ -13,3 +13,11 @@
 
 ## procedure
 - Follow and Thanks [Unwire](https://unwire.hk/2018/11/06/whatsappstickerdiy/life-tech/)
+
+**TLDR**
+1. git clone from whatsapp git repo
+2. In ```WAStickersThirdParty```, change the ```Display name``` and ```Bundle Identifier``` and Select Team from ```signing```
+3. Replace all simpleSticker images from simpleSticker to your images(change type to ```Data```)
+4. Update JSON in ```sticker_packs.wasticker```
+5. Update App images in ```Assets.xcassets >> App```
+6. Build
