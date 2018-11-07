@@ -12,4 +12,4 @@
 - Max file size of 50KB
 
 ## procedure
-- Follow [Unwire](https://unwire.hk/2018/11/06/whatsappstickerdiy/life-tech/)
+- Follow and Thanks [Unwire](https://unwire.hk/2018/11/06/whatsappstickerdiy/life-tech/)
