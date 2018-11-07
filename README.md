@@ -12,7 +12,7 @@
 - Max file size of 50KB
 
 ## procedure
-- Follow and Thanks [Unwire](https://unwire.hk/2018/11/06/whatsappstickerdiy/life-tech/)
+- Follow and Thanks [Unwire](https://unwire.hk/2018/11/06/whatsappstickerdiy/life-tech/) and [Whatsapp](https://github.com/WhatsApp/stickers/tree/master/iOS)
 
 **TLDR**
 1. git clone from whatsapp git repo
